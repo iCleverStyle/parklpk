@@ -5,7 +5,7 @@
   <title>Парк ЛПК в Нововятске</title>
   <meta name="description" content="Участвуй в конкурсе проектов благоустройства Парка ЛПК. Выйграйте денежный приз и получите проект в портфолио."/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" href=​favicon.ico type="image/x-icon">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
   <style>
       h1 {
