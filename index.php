@@ -8,7 +8,6 @@
   <link rel="icon" href="favicon.ico" type="image/x-icon">
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
   <script>
-  <script>
  var contentold={};   //объявляем переменную для хранения неизменного текста
  function savedata(elementidsave,contentsave) {   //функция для сохранения отредактированного текста с помощью ajax
    $.ajax({
@@ -72,7 +71,6 @@ $(document).ready(function() {
                         });
 });
 </script>
-  </script>
   <style>
       h1 {
          font-family: sans-serif;
